@@ -1,5 +1,5 @@
 # Tic-Tac-Toe
-## This is a modified implementation of tic tac toe from YouTube channel named "Web Dev Simplified" using HTML, CSS and javaScript.
+## This is an implementation of famouse game Tic Tac Toe using HTML, CSS and javaScript.
 
 # Screen Shots:
 ![SS001](https://github.com/jubaer-ad/tic-tac-toe-javascript/blob/main/ttt001.JPG)
@@ -11,3 +11,5 @@
 ![SS004](https://github.com/jubaer-ad/tic-tac-toe-javascript/blob/main/ttt004.JPG)
 
 ![SS005](https://github.com/jubaer-ad/tic-tac-toe-javascript/blob/main/ttt005.JPG)
+
+Credit goes to "Web Dev Simplified"
