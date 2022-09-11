@@ -1,5 +1,5 @@
 # Tic-Tac-Toe
-## This is an implementation of famouse game Tic Tac Toe using HTML, CSS and javaScript.
+## This is a basic implementation of famous game 'Tic Tac Toe' using HTML, CSS and javaScript.
 
 # Screen Shots:
 ![SS001](https://github.com/jubaer-ad/tic-tac-toe-javascript/blob/main/ttt001.JPG)
